@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[46465,["/burger-cafe/_next/static/chunks/1xz79op6ngi5p.js","/burger-cafe/_next/static/chunks/02drcxp27l2x0.js","/burger-cafe/_next/static/chunks/2ouokewbc-ab-.js","/burger-cafe/_next/static/chunks/0fivt2rvb3_qb.js","/burger-cafe/_next/static/chunks/2ol-x0qatc12q.js","/burger-cafe/_next/static/chunks/3hv1ruq6wlz8p.js"],"LoginScreen"]
+3:I[97367,["/burger-cafe/_next/static/chunks/1xz79op6ngi5p.js","/burger-cafe/_next/static/chunks/02drcxp27l2x0.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/burger-cafe/_next/static/chunks/1xz79op6ngi5p.js","/burger-cafe/_next/static/chunks/02drcxp27l2x0.js"],"ViewportBoundary"]
+9:I[97367,["/burger-cafe/_next/static/chunks/1xz79op6ngi5p.js","/burger-cafe/_next/static/chunks/02drcxp27l2x0.js"],"MetadataBoundary"]
+a:I[27201,["/burger-cafe/_next/static/chunks/1xz79op6ngi5p.js","/burger-cafe/_next/static/chunks/02drcxp27l2x0.js"],"IconMark"]
+c:I[39756,["/burger-cafe/_next/static/chunks/1xz79op6ngi5p.js","/burger-cafe/_next/static/chunks/02drcxp27l2x0.js"],"default"]
+d:I[37457,["/burger-cafe/_next/static/chunks/1xz79op6ngi5p.js","/burger-cafe/_next/static/chunks/02drcxp27l2x0.js"],"default"]
+7:X
+f:X
+f:C
+0:{"buildId":"M3FB5zwbw3Y9EUNMJzKIq","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/burger-cafe/_next/static/chunks/2ouokewbc-ab-.js","async":true}],["$","script","script-1",{"src":"/burger-cafe/_next/static/chunks/0fivt2rvb3_qb.js","async":true}],["$","script","script-2",{"src":"/burger-cafe/_next/static/chunks/2ol-x0qatc12q.js","async":true}],["$","script","script-3",{"src":"/burger-cafe/_next/static/chunks/3hv1ruq6wlz8p.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#fffbf5"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"შესვლა · ჩემი ბურგერების კაფე"}],["$","meta","1",{"name":"description","content":"საგანმანათლებლო თამაში მოსწავლეებისთვის: შეასრულე შეკვეთები, ამოხსენი მათემატიკური ამოცანები, მართე ფინანსები და განავითარე საკუთარი ბურგერების კაფე."}],["$","meta","2",{"name":"application-name","content":"ჩემი ბურგერების კაფე"}],["$","link","3",{"rel":"icon","href":"/burger-cafe/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$La","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+5:null
+11:true
+7:300
+7:C
+10:0
+b:"$undefined"
+e:"$undefined"
+6:"$undefined"
